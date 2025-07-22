@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #f7f7f7;
+}
+
+#board {
+  display: grid;
+  grid-template-columns: repeat(5, 50px);
+  grid-gap: 5px;
+  justify-content: center;
+  margin: 20px auto;
+}
+
+.cell {
+  width: 50px;
+  height: 50px;
+  background-color: white;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.cell.dot {
+  background-color: red;
+}

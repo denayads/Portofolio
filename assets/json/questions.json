@@ -1,0 +1,73 @@
+{
+  "math": [
+    {
+      "question": "What is 7 × 8?",
+      "options": ["54", "56", "58", "64"],
+      "answer": "56"
+    },
+    {
+      "question": "Square root of 144?",
+      "options": ["10", "12", "14", "16"],
+      "answer": "12"
+    },
+    {
+      "question": "What is 10 + 5?",
+      "options": ["13", "15", "17", "20"],
+      "answer": "15"
+    },
+    {
+      "question": "What is 3 × 4?",
+      "options": ["7", "10", "12", "14"],
+      "answer": "12"
+    }
+  ],
+  "history": [
+    {
+      "question": "Who was the first President of the USA?",
+      "options": ["Lincoln", "Washington", "Roosevelt", "Adams"],
+      "answer": "Washington"
+    },
+    {
+      "question": "Which year did WW2 end?",
+      "options": ["1940", "1945", "1950", "1960"],
+      "answer": "1945"
+    },
+    {
+      "question": "Who discovered America?",
+      "options": ["Columbus", "Einstein", "Newton", "Tesla"],
+      "answer": "Columbus"
+    },
+    {
+      "question": "When was the Declaration of Independence signed?",
+      "options": ["1776", "1801", "1750", "1865"],
+      "answer": "1776"
+    }
+  ],
+  "programming": [
+    {
+      "question": "Which language runs in the browser?",
+      "options": ["Python", "C++", "JavaScript", "Java"],
+      "answer": "JavaScript"
+    },
+    {
+      "question": "What does HTML stand for?",
+      "options": ["Hyper Type Markup Language", "HyperText Markup Language", "Host Tag Mark Language", "HighText Meta Language"],
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "question": "What does CSS stand for?",
+      "options": [
+        "Color Style Sheet",
+        "Cascading Style Sheets",
+        "Computer Style Syntax",
+        "Code Style Source"
+      ],
+      "answer": "Cascading Style Sheets"
+    },
+    {
+      "question": "Which language is used for web apps?",
+      "options": ["Python", "Java", "JavaScript", "C"],
+      "answer": "JavaScript"
+    }
+  ]
+}
